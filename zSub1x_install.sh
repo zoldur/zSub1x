@@ -11,7 +11,6 @@ COIN_NAME='zSub1x'
 COIN_PORT=5721
 RPC_PORT=5720
 
-
 NODEIP=$(curl -s4 icanhazip.com)
 
 
